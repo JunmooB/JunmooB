@@ -13,10 +13,12 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MachineLearning-000000?style=flat-square&logo=MachineLearning&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/DeepLearning-000000?style=flat-square&logo=DeepLearning&logoColor=white"/></a>&nbsp
+  
   <br>
   <img src="https://img.shields.io/badge/Pytorch-E6B91E?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TensorFlow-232F3E?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/BigQuery-D24939?style=flat-square&logo=BigQuery&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-2496ED?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
